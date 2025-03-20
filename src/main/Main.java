@@ -49,5 +49,7 @@ public class Main {
 		chef2.showCookHistory();
 		
 		restaurant.showTotalIncome();
+		
+		System.out.println("HELLO");
 	}
 }
